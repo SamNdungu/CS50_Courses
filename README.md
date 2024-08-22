@@ -53,4 +53,4 @@ All contributions are welcome! I hope to create a collaborative environment wher
 
 ## ⚠️ Disclaimer
 
-The content of this repository is inspired by the CS50 course. The tutorials, exercises, and code examples are based on the original materials provided by Harvard University's CS50, and they belong to CS50. This repository is a personal project and not affiliated with or endorsed by Harvard University or the CS50 course.
+The content of this repository is inspired by the HarvardX’s CS50 courses. The tutorials, exercises, and code examples are based on the original materials provided by HarvardX CS50. This repository is a personal project and not affiliated with or endorsed by Harvard University or the CS50 course.
